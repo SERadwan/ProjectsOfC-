@@ -6,5 +6,5 @@ and
 I am trying to develop my capabilities
 
 
-I know I am simple, but I am just beginning to learn.
+I know they are simple projects, but I am learning.
 
